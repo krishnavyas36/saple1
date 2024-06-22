@@ -33,7 +33,8 @@
 - Develop a user-friendly budget tracking app with CRUD operations using python and pandas. 
 - Integrate Python and Excel to store data and make changes efficiently. 
 
-**Power BI Analysis: Nike USA Shoe sales | Power BI, Excel**                                                                                  
+**Power BI Analysis: Nike USA Shoe sales | Power BI, Excel**
+![img](assets/img/NIke_BI.png)
 - Implemented interactive features such as slicers, filters, and drill – through functionality to enable users to explore sales data.  
 - Created visually appealing dashboards to visualize Nike sales trends over time and region.  
 - Did a Comprehensive analysis of Nike data using Power Bi to give more insights to the users. 
